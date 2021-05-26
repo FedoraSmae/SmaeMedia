@@ -1,0 +1,194 @@
+body {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-style: normal;
+	font-weight: 400;
+	margin: 0;
+	line-height: 1.625;
+	background-color: #474D58;
+}
+.header-container {
+	text-align: center;
+	background-size: cover;
+	background-position: center center;
+	color: #ffffff;
+	padding-bottom: 0vw;
+	
+}
+.header-container .site-header {
+    margin: auto auto;
+    max-width: 1200px;
+    text-transform: uppercase;
+    background-size: cover;
+    background-position: center center;
+    -webkit-box-shadow: 3px 3px 9px 0px #000000;
+    box-shadow: 3px 3px 9px 0px #000000;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.header-container .site-header .headbackground {
+	padding-top: 10vw;
+	padding-bottom: 10vw;
+	margin: auto auto;
+	background-size: auto;
+	background-position: center center;
+	background-image: url("Images/PaLs FlagB.png");
+}
+
+.navigation {
+	font-size: 20px;
+	font-weight: 400;
+	border-bottom: lpx solid rgba(255, 255, 255, 0.25);
+	font-family: san-serif;
+
+}
+
+
+.navigation ul {
+    margin: 0;
+    background-color:#121212;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.navigation ul li {
+	display: inline-block
+}
+
+
+.navigation ul li a {
+	padding: 17px 37px ;
+	text-decoration: none;
+	display: inline-block;
+	color: #fff;
+}
+.navigation ul li a:hover {
+	text-decoration: underline;
+}
+
+.page-title {
+	padding-bottom: 50px;
+}
+.page-title .main-title {
+	text-decoration: underline;
+	font-size: 4.5em;
+	margin-bottom: 0;
+}
+.main-paragraph {
+	max-width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 1.5em
+}
+.site-bottom {
+    padding-bottom: 1vw;
+    max-width: 1200px;
+    margin: auto auto;
+    background-color: #606876;
+    background-size: cover;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+.site-bottom .bottom-info-box {
+	width: 50%;
+	padding-top: 6em;
+}
+.site-bottom .bottom-info-box ul{
+	margin-left: 1.25rem;
+	list-style-type: none;
+	text-align: start;
+}
+.site-bottom .bottom-info-box ul li{
+	font-size: 25px;
+}
+.site-bottom .bottom-info-box ul li a {
+	color: #ffffff;
+	text-decoration: none;
+	font-size: 25px;
+	font-weight: bolder;
+}	
+.socialtable {
+	max-width: 1200px;
+	margin: auto auto;
+	font-size: 30px;
+}
+.socialtable a {
+	color: #ffffff;
+	text-decoration: none
+}
+.socialtable .twitter a:hover {
+	color: #1DA1F2;
+	text-decoration: underline;
+}
+.socialtable .youtube a:hover {
+	color: #FF0000;
+	text-decoration: underline;
+}
+.socialtable .twitch a:hover {
+	color:#9F2FFF;
+	text-decoration: underline;
+}
+.socialtable .reddit a:hover {
+	color: #FF4500;
+	text-decoration: underline;
+}
+.socialtable .spotify a:hover {
+	color: #1DB954;
+	text-decoration: underline;
+}
+.socialtable .steam a:hover {
+	color: #66c0f4;
+	text-decoration: underline;
+}
+.socialtable .deviantart a:hover {
+	color: #05cc47;
+	text-decoration: underline;
+}
+.socialtable .instagram a:hover {
+	color: #E1306C;
+	text-decoration: underline;
+}
+.socialtable .sheezy a:hover {
+	color:#90A5B1;
+	text-decoration: underline;
+}
+.socialtable .letterboxd a:hover {
+	color:#FF7131;
+	text-decoration: underline;
+}
+.socialtable .gmaps a:hover {
+	color:#FFC600;
+	text-decoration: underline;
+}
+.socialtable .github a:hover {
+	color:#B1FFFB;
+	text-decoration: underline;
+}
+.subheading {
+	font-size: 35px;
+	text-decoration: underline;
+	font-weight: bolder;
+}
+.subheading2{
+	font-size: 30px;
+	font-weight: bold;
+}
+.gcsetable {
+	max-width: 1200px;
+	margin: auto auto;
+	font-size: 25px;
+}
+.tabletitle{
+	text-decoration: underline;
+	font-weight: bold;
+}
+.gamegif{
+    border-radius: 30px;
+    -webkit-box-shadow: 4px 4px 6px #000000;
+    box-shadow: 4px 4px 6px #000000;
+}
+.caption{
+    margin-top: -8px;
+    color: #FFFFFF;
+    opacity: 0.75;
+	
+}
