@@ -119,7 +119,7 @@ body {
 	color: #1DA1F2;
 	text-decoration: underline;
 }
-.socialtable .youtube a:hover {
+.youtube a:hover {
 	color: #FF0000;
 	text-decoration: underline;
 }
@@ -163,6 +163,15 @@ body {
 	color:#B1FFFB;
 	text-decoration: underline;
 }
+.discord a{
+	color: white;
+	text-decoration: none;
+	font-size: 30px;
+}
+.discord a:hover {
+	color:#7289DA;
+	text-decoration: underline;
+}
 .subheading {
 	font-size: 35px;
 	text-decoration: underline;
@@ -190,5 +199,22 @@ body {
     margin-top: -8px;
     color: #FFFFFF;
     opacity: 0.75;
+	font-size: 15px;
 	
 }
+.youtube a {
+	color: white;
+	text-decoration: none;
+	font-size: 30px;
+}
+.Wiki a {
+	color: white;
+	text-decoration: none;
+	font-size: 30px;
+}
+.Wiki a:hover {
+	color: white;
+	text-decoration: underline;
+	font-size: 30px;
+}
+
