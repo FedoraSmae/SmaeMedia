@@ -217,4 +217,33 @@ body {
 	text-decoration: underline;
 	font-size: 30px;
 }
-
+.error-title{
+    font-size: 50px;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}
+.error-paragraph{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.5em;
+    max-width: 1000px;
+    padding-top: 20px;
+}
+.error-notice{
+    background-color: #353843;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: auto;
+    max-width: 1200px;
+    border-radius: 30px;
+    -webkit-box-shadow: 3px 3px 9px 0px #1B1B22;
+    box-shadow: 3px 3px 9px 0px #1B1B22;
+    font-size: 1.5em;
+}
+.error-section{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
